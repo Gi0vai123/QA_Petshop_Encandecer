@@ -1,4 +1,4 @@
-# QA_Petshop_Encandecer
+# QA_Pet_Store
 
 Feito por:  
 Giovani Ribeiro Lima RA: 94107  
